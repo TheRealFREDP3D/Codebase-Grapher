@@ -26,3 +26,7 @@ Wish me luck!
 
 * Automate project documentation updates as the code evolves.
 * Improve maintainability as projects grow in size and complexity.
+
+## End Goal
+
+![An interactive visualization tool](<codebase graph example.jpg>)
