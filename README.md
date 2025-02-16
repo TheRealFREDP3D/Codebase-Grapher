@@ -1,4 +1,4 @@
-# CodeGrapher
+# Codebase-Grapher
 
 ## Goals & Use Cases
 
