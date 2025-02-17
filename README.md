@@ -30,3 +30,9 @@ Wish me luck!
 ## End Goal
 
 ![An interactive visualization tool](<codebase graph example.jpg>)
+
+---
+
+## CHANGE HISTORY
+
+v0.2 - STAGE 1

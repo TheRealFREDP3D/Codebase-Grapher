@@ -1,6 +1,6 @@
 ## Python Code Explanation: AST Analysis
 
-This Python code analyzes a given Python file (`test_file.py`) and extracts information about its structure, including imports, classes, and functions.
+This Python code analyzes a given Python file (`test_file.py`), extracts file and document information the cod its structure, including imports, classes, and functions.
 
 Here's a breakdown of the code:
 
@@ -40,7 +40,7 @@ Here's a breakdown of the code:
 
 **5.`if __name__ == "__main__":` Block:**
 
-This block ensures that  the  `main()` function is executed only when this script is run directly (not imported as a module).
+This block ensures that the `main()` function is executed only when this script is run directly (not imported as a module).
 
 ## Output
 
