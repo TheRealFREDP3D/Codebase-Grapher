@@ -10,7 +10,13 @@ Wish me luck!
 
 ---
 
-## Features
+## Updates
+
+17-01-2025
+
+- **Phase 1** is half-done with the completed parser script. Using AST, analyze a Python file, and extract classes, functions, methods, and dependencies. Exports a JSON file.  
+
+## Features Planned
 
 ### Codebase Understanding
 
