@@ -29,7 +29,7 @@ Wish me luck!
 
 ## End Goal
 
-![An interactive visualization tool](<codebase graph example.jpg>)
+![An interactive visualization tool](<image/codebase graph example.jpg>)
 
 ---
 
