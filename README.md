@@ -2,9 +2,13 @@
 
 ## Goals & Use Cases
 
-I want to reduce frustration in certain situations. VSCode extension, **CodeGPT**’s knowledge graph visualization showed me how game-changing this tool can be. After experiencing it, I don’t want to go back—but the trial was limited to one codebase.
+I want to facilitate working on Python projects in certain situations. 
 
-I know this is a complex project, far beyond my current level. However, I’m eager to learn how it works and challenge myself to see what I can achieve on this journey.
+Since I tried the VSCode extension, **CodeGPT**’s knowledge graph visualization showed me how game-changing and time-saving this tool can be. After experiencing it, I don’t want to go back without it.  The extension trial was limited to only one codebase and as a hobbyist developer, I don't have a budget for subscription tooling.
+
+I know this is a complex task, far beyond my current level. However, I’m eager to learn how it works under the hood.
+
+I am always looking for a good challenge and I am ready to see what I can achieve on this journey.
 
 Wish me luck!
 
